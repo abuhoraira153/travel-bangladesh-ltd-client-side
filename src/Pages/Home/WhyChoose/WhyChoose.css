@@ -1,0 +1,11 @@
+.my-cards{
+    margin: 0 auto;
+ }
+ .why-card{
+     background-color: rgb(240, 240, 190);
+     padding: 10px;
+     border-radius: 20px;
+ }
+ .text-style{
+     color: #420516;
+ }
