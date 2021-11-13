@@ -12,7 +12,7 @@ const Footer = () => {
                 <h3 className = "small mb-0 mt-1">&copy; Copy-right Abu Horaira</h3>
             </div>
             <div className="col-lg-6 d-flex">
-                <Link className = "lern-more" to = "/contactUs">For more information...</Link>
+                <Link className = "more-info" to = "/contactUs">For more information...</Link>
             </div>
         </div>
     );

@@ -1,13 +1,13 @@
 .footer{
     padding: 1% 10%;
-    background-color:  #112031;
+    background-color:  blueviolet;
     height: 100px;
     font-weight: 600;
     font-size: 30px;
     padding-top: 20px;
     color: white;
 }
-.lern-more{
+.more-info{
     color: white;
     text-decoration: none;
     font-size: 25px;
