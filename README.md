@@ -1,12 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [my-website-url](https://travel-bangladesh-ltd.web.app/).
+
 <ul>
-<li>This website is about travel.<li>
-<li>You can go any where from our travel Bangladesh.<li>
-<li>Our service is best in BD.<li>
-<li>Sometimes we give free pakages for the customers.<li>
-<li>We ensure security all the customers.<ul>
+    <li>This website is about travel.</li>
+    <li>You can go any where from our travel Bangladesh.</li>
+    <li>Our service is best in BD.</li>
+    <li>Sometimes we give free pakages for the customers.</li>
+    <li>Sometimes we give free pakages for the customers.</li>
 </ul>
 
 ## Available Scripts
